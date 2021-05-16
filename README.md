@@ -1,2 +1,2 @@
 # SolSomeJavaProb
-Solutions to some of Java problems 
+Solutions to some of Java problems with while
